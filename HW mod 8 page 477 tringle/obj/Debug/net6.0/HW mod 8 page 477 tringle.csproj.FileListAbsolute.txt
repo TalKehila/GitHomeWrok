@@ -1,0 +1,30 @@
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\bin\Debug\net6.0\HW mod 8 page 477 tringle.exe
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\bin\Debug\net6.0\HW mod 8 page 477 tringle.deps.json
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\bin\Debug\net6.0\HW mod 8 page 477 tringle.runtimeconfig.json
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\bin\Debug\net6.0\HW mod 8 page 477 tringle.dll
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\bin\Debug\net6.0\HW mod 8 page 477 tringle.pdb
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.dll
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\obj\Debug\net6.0\refint\HW mod 8 page 477 tringle.dll
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.pdb
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.genruntimeconfig.cache
+C:\Users\USER\Desktop\C#\HW mod 8 page 477 tringle\obj\Debug\net6.0\ref\HW mod 8 page 477 tringle.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\bin\Debug\net6.0\HW mod 8 page 477 tringle.exe
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\bin\Debug\net6.0\HW mod 8 page 477 tringle.deps.json
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\bin\Debug\net6.0\HW mod 8 page 477 tringle.runtimeconfig.json
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\bin\Debug\net6.0\HW mod 8 page 477 tringle.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\bin\Debug\net6.0\HW mod 8 page 477 tringle.pdb
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.AssemblyInfo.cs
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\obj\Debug\net6.0\refint\HW mod 8 page 477 tringle.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.pdb
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\obj\Debug\net6.0\HW mod 8 page 477 tringle.genruntimeconfig.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\C#\שיעורים במצגת C#\MOD 8 loops\HW mod 8 page 477 tringle\obj\Debug\net6.0\ref\HW mod 8 page 477 tringle.dll
