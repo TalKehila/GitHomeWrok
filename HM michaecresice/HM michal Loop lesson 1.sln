@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HM Michal", "HM michal Loop lesson 1\HM Michal.csproj", "{38575555-5151-417A-A90D-F470524CAE84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38575555-5151-417A-A90D-F470524CAE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38575555-5151-417A-A90D-F470524CAE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38575555-5151-417A-A90D-F470524CAE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38575555-5151-417A-A90D-F470524CAE84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F438649F-9A0E-4AB4-9586-C112765B0037}
+	EndGlobalSection
+EndGlobal

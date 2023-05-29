@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\C# OOC\HM michaecresice\HM michal Loop lesson 1\bin\Debug\HM michal Loop lesson 1.exe.config
+C:\Users\USER\Desktop\C# OOC\HM michaecresice\HM michal Loop lesson 1\bin\Debug\HM michal Loop lesson 1.exe
+C:\Users\USER\Desktop\C# OOC\HM michaecresice\HM michal Loop lesson 1\bin\Debug\HM michal Loop lesson 1.pdb
+C:\Users\USER\Desktop\C# OOC\HM michaecresice\HM michal Loop lesson 1\obj\Debug\HM Michal.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C# OOC\HM michaecresice\HM michal Loop lesson 1\obj\Debug\HM Michal.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\C# OOC\HM michaecresice\HM michal Loop lesson 1\obj\Debug\HM Michal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# OOC\HM michaecresice\HM michal Loop lesson 1\obj\Debug\HM michal Loop lesson 1.exe
+C:\Users\USER\Desktop\C# OOC\HM michaecresice\HM michal Loop lesson 1\obj\Debug\HM michal Loop lesson 1.pdb
