@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\SetEXEricse\SetEXEricse\bin\Debug\SetEXEricse.exe.config
+C:\Users\USER\Desktop\SetEXEricse\SetEXEricse\bin\Debug\SetEXEricse.exe
+C:\Users\USER\Desktop\SetEXEricse\SetEXEricse\bin\Debug\SetEXEricse.pdb
+C:\Users\USER\Desktop\SetEXEricse\SetEXEricse\obj\Debug\SetEXEricse.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SetEXEricse\SetEXEricse\obj\Debug\SetEXEricse.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\SetEXEricse\SetEXEricse\obj\Debug\SetEXEricse.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SetEXEricse\SetEXEricse\obj\Debug\SetEXEricse.exe
+C:\Users\USER\Desktop\SetEXEricse\SetEXEricse\obj\Debug\SetEXEricse.pdb
+C:\Users\USER\Desktop\לימודים\C# Folde\C# OOC\SetEXEricse\SetEXEricse\bin\Debug\SetEXEricse.exe.config
+C:\Users\USER\Desktop\לימודים\C# Folde\C# OOC\SetEXEricse\SetEXEricse\bin\Debug\SetEXEricse.exe
+C:\Users\USER\Desktop\לימודים\C# Folde\C# OOC\SetEXEricse\SetEXEricse\bin\Debug\SetEXEricse.pdb
+C:\Users\USER\Desktop\לימודים\C# Folde\C# OOC\SetEXEricse\SetEXEricse\obj\Debug\SetEXEricse.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\C# OOC\SetEXEricse\SetEXEricse\obj\Debug\SetEXEricse.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\C# OOC\SetEXEricse\SetEXEricse\obj\Debug\SetEXEricse.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\C# OOC\SetEXEricse\SetEXEricse\obj\Debug\SetEXEricse.exe
+C:\Users\USER\Desktop\לימודים\C# Folde\C# OOC\SetEXEricse\SetEXEricse\obj\Debug\SetEXEricse.pdb
