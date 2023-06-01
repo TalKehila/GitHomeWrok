@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\bin\Debug\net6.0\BevergeProject.exe
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\bin\Debug\net6.0\BevergeProject.deps.json
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\bin\Debug\net6.0\BevergeProject.runtimeconfig.json
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\bin\Debug\net6.0\BevergeProject.dll
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\bin\Debug\net6.0\BevergeProject.pdb
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\obj\Debug\net6.0\BevergeProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\obj\Debug\net6.0\BevergeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\obj\Debug\net6.0\BevergeProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\obj\Debug\net6.0\BevergeProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\obj\Debug\net6.0\BevergeProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\obj\Debug\net6.0\BevergeProject.dll
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\obj\Debug\net6.0\refint\BevergeProject.dll
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\obj\Debug\net6.0\BevergeProject.pdb
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\obj\Debug\net6.0\BevergeProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\BevergeProject\BevergeProject\obj\Debug\net6.0\ref\BevergeProject.dll
