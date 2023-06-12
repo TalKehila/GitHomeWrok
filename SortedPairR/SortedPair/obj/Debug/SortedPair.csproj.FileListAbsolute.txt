@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\SortedPair\SortedPair\obj\Debug\SortedPair.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SortedPair\SortedPair\obj\Debug\SortedPair.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\SortedPair\SortedPair\obj\Debug\SortedPair.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SortedPair\SortedPair\bin\Debug\SortedPair.exe.config
+C:\Users\USER\Desktop\SortedPair\SortedPair\bin\Debug\SortedPair.exe
+C:\Users\USER\Desktop\SortedPair\SortedPair\bin\Debug\SortedPair.pdb
+C:\Users\USER\Desktop\SortedPair\SortedPair\obj\Debug\SortedPair.exe
+C:\Users\USER\Desktop\SortedPair\SortedPair\obj\Debug\SortedPair.pdb
+C:\Users\USER\Desktop\SortedPairR\SortedPair\bin\Debug\SortedPair.exe.config
+C:\Users\USER\Desktop\SortedPairR\SortedPair\bin\Debug\SortedPair.exe
+C:\Users\USER\Desktop\SortedPairR\SortedPair\bin\Debug\SortedPair.pdb
+C:\Users\USER\Desktop\SortedPairR\SortedPair\obj\Debug\SortedPair.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SortedPairR\SortedPair\obj\Debug\SortedPair.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\SortedPairR\SortedPair\obj\Debug\SortedPair.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SortedPairR\SortedPair\obj\Debug\SortedPair.exe
+C:\Users\USER\Desktop\SortedPairR\SortedPair\obj\Debug\SortedPair.pdb
